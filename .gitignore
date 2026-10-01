@@ -1,0 +1,14 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+*.Rcheck/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Excel lock / temp files
+~$*.xlsx

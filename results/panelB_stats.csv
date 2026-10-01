@@ -1,0 +1,7 @@
+"comparison","test","p"
+"No
+ortholog vs Ortholog
+present","Wilcoxon rank-sum",0.122257617042001
+"No
+ortholog vs Ortholog present,
+excluding known inhibitors","Wilcoxon rank-sum",0.376759117811582

@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below."
+title: "Code and data for: Many inhibitors with defined yeast targets have limited activity against the microsporidian Nematocida parisii"
+authors:
+  - family-names: Huang
+    given-names: Qingyuan
+  - family-names: Pan
+    given-names: Guoqing
+  - family-names: Chen
+    given-names: Jie
+  - family-names: Reinke
+    given-names: Aaron W.
+repository-code: "https://github.com/reinkelab-utoronto/Npar-yeast-target-inhibitors"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Many inhibitors with defined yeast targets have limited activity against the microsporidian Nematocida parisii"
+  authors:
+    - family-names: Huang
+      given-names: Qingyuan
+    - family-names: Pan
+      given-names: Guoqing
+    - family-names: Chen
+      given-names: Jie
+    - family-names: Reinke
+      given-names: Aaron W.
+  journal: "Parasitology International"
+  volume: 117
+  start: 103389
+  year: 2027
+  doi: "10.1016/j.parint.2026.103389"
